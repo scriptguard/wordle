@@ -1,5 +1,5 @@
 export const WORDS = [
-  'whore',
+  'whole',
   'there',
   'their',
   'about',
